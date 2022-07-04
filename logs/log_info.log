@@ -1,0 +1,177 @@
+[2022-07-04 23:45:05,120: INFO: root: list]: Extracting string from the list
+[2022-07-04 23:45:05,121: INFO: root: list]: string --> karthik
+[2022-07-04 23:45:05,121: INFO: root: list]: string --> 23
+[2022-07-04 23:45:05,121: INFO: root: list]: string --> 456
+[2022-07-04 23:45:05,121: INFO: root: list]: string --> 67
+[2022-07-04 23:45:05,121: INFO: root: list]: string --> 8
+[2022-07-04 23:45:05,122: INFO: root: list]: string --> 78
+[2022-07-04 23:45:05,122: INFO: root: list]: string --> 78
+[2022-07-04 23:45:05,122: INFO: root: list]: string --> 345
+[2022-07-04 23:45:05,122: INFO: root: list]: string --> 56
+[2022-07-04 23:45:05,122: INFO: root: list]: string --> 87
+[2022-07-04 23:45:05,122: INFO: root: list]: string --> 8
+[2022-07-04 23:45:05,122: INFO: root: list]: string --> 98
+[2022-07-04 23:45:05,123: INFO: root: list]: string --> 9
+[2022-07-04 23:45:05,123: INFO: root: list]: string --> kar
+[2022-07-04 23:45:05,123: INFO: root: list]: string --> 234
+[2022-07-04 23:45:05,123: INFO: root: list]: string --> 6657
+[2022-07-04 23:45:05,123: INFO: root: list]: string --> 6
+[2022-07-04 23:56:24,986: INFO: root: list]: extract all numeric data
+[2022-07-04 23:56:24,988: INFO: root: list]: Numeric values --> [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234, 1]
+[2022-07-04 23:56:24,988: INFO: root: list]: Summing up numerical data
+[2022-07-04 23:56:24,989: INFO: root: list]: extract all numeric data
+[2022-07-04 23:56:24,989: INFO: root: list]: Numeric values --> [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234, 1]
+[2022-07-04 23:56:24,989: INFO: root: list]:  Sum of numeric values = 8445
+[2022-07-04 23:57:24,660: INFO: root: list]: extract all numeric data
+[2022-07-04 23:57:24,660: INFO: root: list]: Numeric values --> [3, 4, 5, 6, 7, 23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234, 1]
+[2022-07-04 23:57:24,660: INFO: root: list]: Summing up numerical data
+[2022-07-04 23:57:24,660: INFO: root: list]: extract all numeric data
+[2022-07-04 23:57:24,660: INFO: root: list]: Numeric values --> [3, 4, 5, 6, 7, 23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234, 1]
+[2022-07-04 23:57:24,660: INFO: root: list]:  Sum of numeric values = 8470
+[2022-07-04 23:59:17,483: INFO: root: list]: extract all numeric data
+[2022-07-04 23:59:17,483: INFO: root: list]: Numeric values --> [3, 4, 5, 6, 7, 23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234, 1]
+[2022-07-04 23:59:17,484: INFO: root: list]: Summing up numerical data
+[2022-07-04 23:59:17,484: INFO: root: list]: extract all numeric data
+[2022-07-04 23:59:17,484: INFO: root: list]: Numeric values --> [3, 4, 5, 6, 7, 23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234, 1]
+[2022-07-04 23:59:17,484: INFO: root: list]:  Sum of numeric values = 8470
+[2022-07-04 23:59:31,627: INFO: root: list]: extract all numeric data
+[2022-07-04 23:59:31,628: INFO: root: list]: Numeric values --> [3, 4, 5, 6, 7, 23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234, 1]
+[2022-07-04 23:59:31,628: INFO: root: list]: Summing up numerical data
+[2022-07-04 23:59:31,628: INFO: root: list]: extract all numeric data
+[2022-07-04 23:59:31,628: INFO: root: list]: Numeric values --> [3, 4, 5, 6, 7, 23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234, 1]
+[2022-07-04 23:59:31,628: INFO: root: list]:  Sum of numeric values = 8470
+[2022-07-05 00:00:25,958: INFO: root: list]: Reversing the list 
+[2022-07-05 00:00:25,959: INFO: root: list]: Extracting dict from the list
+[2022-07-05 00:00:25,959: INFO: root: list]: dict --> {'key1': 'sudh', 234: [23, 45, 656]}
+[2022-07-05 00:00:25,959: INFO: root: list]: dict --> {1: 'k'}
+[2022-07-05 00:00:25,959: INFO: root: list]: Extracting dict keys from the list
+[2022-07-05 00:00:25,959: INFO: root: list]: dict --> {'key1': 'sudh', 234: [23, 45, 656]}
+[2022-07-05 00:00:25,960: INFO: root: list]: dict --> {1: 'k'}
+[2022-07-05 00:00:25,960: INFO: root: list]: Extracting dictionary values from the list
+[2022-07-05 00:00:25,960: INFO: root: list]: dict --> {'key1': 'sudh', 234: [23, 45, 656]}
+[2022-07-05 00:00:25,960: INFO: root: list]: dict --> {1: 'k'}
+[2022-07-05 00:00:25,960: INFO: root: list]: Extracting lists from the list
+[2022-07-05 00:00:25,960: INFO: root: list]: list --> [23, 456, 67, 8, 78, 78]
+[2022-07-05 00:00:25,960: INFO: root: list]: list --> [345, 56, 87, 8, 98, 9, 'kar']
+[2022-07-05 00:00:25,960: INFO: root: list]: Extracting tuple from the list
+[2022-07-05 00:00:25,960: INFO: root: list]: tuple --> (234, 6657, 6)
+[2022-07-05 00:00:25,960: INFO: root: list]: Extracting string from the list
+[2022-07-05 00:00:25,961: INFO: root: list]: string --> karthik
+[2022-07-05 00:00:25,961: INFO: root: list]: string --> 23
+[2022-07-05 00:00:25,961: INFO: root: list]: string --> 456
+[2022-07-05 00:00:25,961: INFO: root: list]: string --> 67
+[2022-07-05 00:00:25,961: INFO: root: list]: string --> 8
+[2022-07-05 00:00:25,961: INFO: root: list]: string --> 78
+[2022-07-05 00:00:25,961: INFO: root: list]: string --> 78
+[2022-07-05 00:00:25,961: INFO: root: list]: string --> 345
+[2022-07-05 00:00:25,961: INFO: root: list]: string --> 56
+[2022-07-05 00:00:25,961: INFO: root: list]: string --> 87
+[2022-07-05 00:00:25,961: INFO: root: list]: string --> 8
+[2022-07-05 00:00:25,961: INFO: root: list]: string --> 98
+[2022-07-05 00:00:25,961: INFO: root: list]: string --> 9
+[2022-07-05 00:00:25,961: INFO: root: list]: string --> kar
+[2022-07-05 00:00:25,963: INFO: root: list]: string --> 234
+[2022-07-05 00:00:25,963: INFO: root: list]: string --> 6657
+[2022-07-05 00:00:25,963: INFO: root: list]: string --> 6
+[2022-07-05 00:00:25,964: INFO: root: list]: extract all numeric data
+[2022-07-05 00:00:25,964: INFO: root: list]: Numeric values --> [3, 4, 5, 6, 7, 23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234, 1]
+[2022-07-05 00:00:25,964: INFO: root: list]: Summing up numerical data
+[2022-07-05 00:00:25,964: INFO: root: list]: extract all numeric data
+[2022-07-05 00:00:25,964: INFO: root: list]: Numeric values --> [3, 4, 5, 6, 7, 23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234, 1]
+[2022-07-05 00:00:25,964: INFO: root: list]:  Sum of numeric values = 8470
+[2022-07-05 00:05:08,160: INFO: root: main]: creating a new string
+[2022-07-05 00:05:08,160: INFO: root: main]: String operations
+[2022-07-05 00:05:08,160: INFO: root: String]: replacing the cahracter e with a
+[2022-07-05 00:05:08,160: INFO: root: String]: Spliting the string usha Mullapudi Cardiac Centre after converting into upper case
+[2022-07-05 00:05:08,160: INFO: root: String]: Capitalizing the String
+[2022-07-05 00:05:08,160: INFO: root: String]: reversing the string
+[2022-07-05 00:05:08,160: INFO: root: String]: slicing the string
+[2022-07-05 00:05:08,160: INFO: root: String]: Converting usha Mullapudi Cardiac Centre to lower case
+[2022-07-05 00:05:08,160: INFO: root: main]: created a list l <list.List_Operations object at 0x0000026756AB7E20>
+[2022-07-05 00:05:08,161: INFO: root: main]: data operations
+[2022-07-05 00:05:08,161: INFO: root: list]: Extracting lists from the list
+[2022-07-05 00:05:08,161: INFO: root: list]: list --> [23, 456, 67, 8, 78, 78]
+[2022-07-05 00:05:08,161: INFO: root: list]: list --> [345, 56, 87, 8, 98, 9]
+[2022-07-05 00:05:08,161: INFO: root: list]: extract all numeric data
+[2022-07-05 00:05:08,161: INFO: root: list]: Numeric values --> [3, 4, 5, 6, 7, 23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234]
+[2022-07-05 00:05:08,161: INFO: root: list]: Extracting dictionary values from the list
+[2022-07-05 00:05:08,161: INFO: root: list]: dict --> {'key1': 'sudh', 234: [23, 45, 656]}
+[2022-07-05 00:05:35,323: INFO: root: main]: creating a new string
+[2022-07-05 00:05:35,323: INFO: root: main]: String operations
+[2022-07-05 00:05:35,324: INFO: root: String]: replacing the cahracter e with a
+[2022-07-05 00:05:35,324: INFO: root: String]: Spliting the string usha Mullapudi Cardiac Centre after converting into upper case
+[2022-07-05 00:05:35,324: INFO: root: String]: Capitalizing the String
+[2022-07-05 00:05:35,324: INFO: root: String]: reversing the string
+[2022-07-05 00:05:35,324: INFO: root: String]: slicing the string
+[2022-07-05 00:05:35,324: INFO: root: String]: Converting usha Mullapudi Cardiac Centre to lower case
+[2022-07-05 00:05:35,324: INFO: root: main]: created a list l <list.List_Operations object at 0x000001BD2A1C7E20>
+[2022-07-05 00:05:35,325: INFO: root: main]: data operations
+[2022-07-05 00:05:35,325: INFO: root: list]: Extracting lists from the list
+[2022-07-05 00:05:35,325: INFO: root: list]: list --> [23, 456, 67, 8, 78, 78]
+[2022-07-05 00:05:35,325: INFO: root: list]: list --> [345, 56, 87, 8, 98, 9]
+[2022-07-05 00:05:35,325: INFO: root: list]: extract all numeric data
+[2022-07-05 00:05:35,325: INFO: root: list]: Numeric values --> [3, 4, 5, 6, 7, 23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234]
+[2022-07-05 00:05:35,325: INFO: root: list]: Extracting dictionary values from the list
+[2022-07-05 00:05:35,325: INFO: root: list]: dict --> {'key1': 'sudh', 234: [23, 45, 656]}
+[2022-07-05 00:05:35,325: INFO: root: list]: Extracting dict from the list
+[2022-07-05 00:05:35,325: INFO: root: list]: dict --> {'key1': 'sudh', 234: [23, 45, 656]}
+[2022-07-05 00:05:35,325: INFO: root: list]: Extracting dict keys from the list
+[2022-07-05 00:05:35,325: INFO: root: list]: dict --> {'key1': 'sudh', 234: [23, 45, 656]}
+[2022-07-05 00:05:35,326: INFO: root: list]: Extracting tuple from the list
+[2022-07-05 00:05:35,326: INFO: root: list]: tuple --> (234, 6657, 6)
+[2022-07-05 00:06:16,592: INFO: root: main]: creating a new string
+[2022-07-05 00:06:16,593: INFO: root: main]: String operations
+[2022-07-05 00:06:16,593: INFO: root: String]: replacing the cahracter e with a
+[2022-07-05 00:06:16,593: INFO: root: String]: Spliting the string usha Mullapudi Cardiac Centre after converting into upper case
+[2022-07-05 00:06:16,593: INFO: root: String]: Capitalizing the String
+[2022-07-05 00:06:16,593: INFO: root: String]: reversing the string
+[2022-07-05 00:06:16,593: INFO: root: String]: slicing the string
+[2022-07-05 00:06:16,593: INFO: root: String]: Converting usha Mullapudi Cardiac Centre to lower case
+[2022-07-05 00:06:16,593: INFO: root: main]: created a list l <list.List_Operations object at 0x0000013A2D457E20>
+[2022-07-05 00:06:16,593: INFO: root: main]: data operations
+[2022-07-05 00:06:16,593: INFO: root: list]: Extracting lists from the list
+[2022-07-05 00:06:16,594: INFO: root: list]: list --> [23, 456, 67, 8, 78, 78]
+[2022-07-05 00:06:16,594: INFO: root: list]: list --> [345, 56, 87, 8, 98, 9]
+[2022-07-05 00:06:16,594: INFO: root: list]: extract all numeric data
+[2022-07-05 00:06:16,594: INFO: root: list]: Numeric values --> [3, 4, 5, 6, 7, 23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234]
+[2022-07-05 00:06:16,594: INFO: root: list]: Extracting dictionary values from the list
+[2022-07-05 00:06:16,594: INFO: root: list]: dict --> {'key1': 'sudh', 234: [23, 45, 656]}
+[2022-07-05 00:06:16,594: INFO: root: list]: Extracting dict from the list
+[2022-07-05 00:06:16,594: INFO: root: list]: dict --> {'key1': 'sudh', 234: [23, 45, 656]}
+[2022-07-05 00:06:16,594: INFO: root: list]: Extracting dict keys from the list
+[2022-07-05 00:06:16,595: INFO: root: list]: dict --> {'key1': 'sudh', 234: [23, 45, 656]}
+[2022-07-05 00:06:16,595: INFO: root: list]: Extracting tuple from the list
+[2022-07-05 00:06:16,595: INFO: root: list]: tuple --> (234, 6657, 6)
+[2022-07-05 00:06:16,595: INFO: root: list]: Reversing the list 
+[2022-07-05 00:06:16,595: INFO: root: list]: Summing up numerical data
+[2022-07-05 00:06:16,595: INFO: root: list]: extract all numeric data
+[2022-07-05 00:06:16,596: INFO: root: list]: Numeric values --> [3, 4, 5, 6, 7, 23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234]
+[2022-07-05 00:06:16,596: INFO: root: list]:  Sum of numeric values = 8469
+[2022-07-05 00:08:38,439: INFO: root: main]: creating a new string
+[2022-07-05 00:08:38,439: INFO: root: main]: String operations
+[2022-07-05 00:08:38,439: INFO: root: String]: replacing the cahracter e with a
+[2022-07-05 00:08:38,440: INFO: root: String]: Spliting the string usha Mullapudi Cardiac Centre after converting into upper case
+[2022-07-05 00:08:38,440: INFO: root: String]: Capitalizing the String
+[2022-07-05 00:08:38,440: INFO: root: String]: reversing the string
+[2022-07-05 00:08:38,440: INFO: root: String]: slicing the string
+[2022-07-05 00:08:38,440: INFO: root: String]: Converting usha Mullapudi Cardiac Centre to lower case
+[2022-07-05 00:08:38,440: INFO: root: main]: created a list l <list.List_Operations object at 0x0000023512557E20>
+[2022-07-05 00:08:38,440: INFO: root: main]: data operations
+[2022-07-05 00:08:38,440: INFO: root: list]: Extracting lists from the list
+[2022-07-05 00:08:38,440: INFO: root: list]: list --> [23, 456, 67, 8, 78, 78]
+[2022-07-05 00:08:38,440: INFO: root: list]: list --> [345, 56, 87, 8, 98, 9]
+[2022-07-05 00:08:38,440: INFO: root: list]: extract all numeric data
+[2022-07-05 00:08:38,441: INFO: root: list]: Numeric values --> [3, 4, 5, 6, 7, 23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234]
+[2022-07-05 00:08:38,441: INFO: root: list]: Extracting dictionary values from the list
+[2022-07-05 00:08:38,441: INFO: root: list]: dict --> {'key1': 'sudh', 234: [23, 45, 656]}
+[2022-07-05 00:08:38,441: INFO: root: list]: Extracting dict from the list
+[2022-07-05 00:08:38,441: INFO: root: list]: dict --> {'key1': 'sudh', 234: [23, 45, 656]}
+[2022-07-05 00:08:38,441: INFO: root: list]: Extracting dict keys from the list
+[2022-07-05 00:08:38,441: INFO: root: list]: dict --> {'key1': 'sudh', 234: [23, 45, 656]}
+[2022-07-05 00:08:38,442: INFO: root: list]: Extracting tuple from the list
+[2022-07-05 00:08:38,442: INFO: root: list]: tuple --> (234, 6657, 6)
+[2022-07-05 00:08:38,442: INFO: root: list]: Reversing the list 
+[2022-07-05 00:08:38,442: INFO: root: list]: Summing up numerical data
+[2022-07-05 00:08:38,442: INFO: root: list]: extract all numeric data
+[2022-07-05 00:08:38,442: INFO: root: list]: Numeric values --> [3, 4, 5, 6, 7, 23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234]
+[2022-07-05 00:08:38,442: INFO: root: list]:  Sum of numeric values = 8469
